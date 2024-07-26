@@ -1,14 +1,11 @@
-👋 Hi there! I'm Gi Hyeok
-<div align="justify">
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-</div>
 <p></p>
 <p align="justify">
-welcome to my GitHub Page. I am Gi Hyeok, I am developing at Hallym University and I am making interesting codes using Python and JavaScript
-
+<p>Welcome to my page! </br> I'm GiHyoek, developer from <img src="https://cdn-icons-png.flaticon.com/128/9906/9906519.png" width="13"/> <b>Chuncheon, Korea</b>
 </p>
 
-## My favorite tools and technologies ⚙️
+## ⚙️ My favorite tools and technologies 
 
 > Tools and technologies that I have worked with and am interested in
 
