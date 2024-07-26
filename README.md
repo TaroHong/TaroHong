@@ -1,25 +1,77 @@
-<div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Itim&size=40&pause=1000&color=C1C3FF&center=true&vCenter=true&repeat=false&width=500&height=200&lines=Hi+there%2Cit's+been+ages.)](https://git.io/typing-svg)
+<img src="https://raw.githubusercontent.com/rzashakeri/rzashakeri/main/intro.gif" alt="👋 Hi there! I'm Gi Hyeok" title="👋 Hi there! I'm Gi Hyeok"/>
+<div align="justify">
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=TaroHong&show_icons=true&theme=discord_old_blurple)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TaroHong&layout=compact&theme=discord_old_blurple)
-  
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=TaroHong&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
-  
-  <div align=center><h1>📚 STACKS</h1></div>
- <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
-  <img src="https://img.shields.io/badge/c++-EF2D5E?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
-  <br>
-  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
-  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
-  <img src="https://img.shields.io/badge/css-7A1FA2?style=for-the-badge&logo=css3&logoColor=white"> 
-  <img src="https://img.shields.io/badge/jquery-00B388?style=for-the-badge&logo=jquery&logoColor=white">
-  <br>
-  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-</a>
 </div>
+<p></p>
+<p align="justify">
+welcome to my GitHub Page. I am Gi Hyeok, I am developing at Hallym University and I am making interesting codes using Python and JavaScript
+
+</p>
+
+## My favorite tools and technologies ⚙️
+
+> Tools and technologies that I have worked with and am interested in
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+      </a>
+      <br>Python
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/java-icon.svg" width="48" height="65" alt="Java" />
+      <br>Java
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+      <br>Javascript
+    </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" width="65" height="65" alt="Rest API" />
+      <br>React
+      </td>
+    </td>
+    </td>
+  </tr>
+  <tr>
+        <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=jquery" width="48" height="65" alt="jquery"/>
+      <br>JQuery
+    </td>
+       <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=html" width="49" height="65" alt="HTML" />
+      <br>HTML 
+    </td>
+    <td align="center" width="93">
+        <img src="https://skillicons.dev/icons?i=css" width="49" height="65" alt="CSS" />
+      <br>CSS
+        <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" height="65" alt="Rest API" />
+      <br>Docker
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="50" height="65" />
+      <br>Nginx
+    </td>
+  </tr>
+   <tr>
+        <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="48" height="48" alt="Postman" />
+      <br>AWS
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/raspberrypi-icon.svg" width="48" height="48" alt="dart" />
+      <br>RaspBerryPi
+    </td>
+        <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
+      <br>Linux
+    </td>
+  </tr>
+ <tr>
+ </tr>
+</table>
+
 
