@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/rzashakeri/rzashakeri/main/intro.gif" alt="👋 Hi there! I'm Gi Hyeok" title="👋 Hi there! I'm Gi Hyeok"/>
+👋 Hi there! I'm Gi Hyeok
 <div align="justify">
 
 </div>
